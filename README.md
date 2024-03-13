@@ -21,4 +21,4 @@
 
 ## 4 界面结果
 
-![](/run/user/1000/doc/6134522e/webui.png)
+![](./imgs/webui.png)
